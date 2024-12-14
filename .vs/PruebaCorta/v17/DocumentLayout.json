@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|c:\\users\\vaki2\\source\\repos\\pruebacorta\\pruebacorta\\vistas\\class.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|solutionrelative:pruebacorta\\vistas\\class.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|c:\\users\\vaki2\\source\\repos\\pruebacorta\\pruebacorta\\vistas\\school.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|solutionrelative:pruebacorta\\vistas\\school.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\pruebacorta\\vistas\\school.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|solutionrelative:pruebacorta\\vistas\\school.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|c:\\users\\vaki2\\source\\repos\\pruebacorta\\pruebacorta\\vistas\\class.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|solutionrelative:pruebacorta\\vistas\\class.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|c:\\users\\vaki2\\source\\repos\\pruebacorta\\pruebacorta\\vistas\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{52CEAFB2-BB75-47B2-A8E6-2B24B115B0D1}|PruebaCorta\\PruebaCorta.csproj|solutionrelative:pruebacorta\\vistas\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\Class.aspx.cs",
+              "RelativeDocumentMoniker": "PruebaCorta\\Vistas\\Class.aspx.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\Class.aspx.cs",
+              "RelativeToolTip": "PruebaCorta\\Vistas\\Class.aspx.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwF4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:10:38.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "School.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\School.aspx.cs",
+              "RelativeDocumentMoniker": "PruebaCorta\\Vistas\\School.aspx.cs",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\School.aspx.cs",
+              "RelativeToolTip": "PruebaCorta\\Vistas\\School.aspx.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T19:10:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\Home.aspx",
+              "RelativeDocumentMoniker": "PruebaCorta\\Vistas\\Home.aspx",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\Home.aspx",
+              "RelativeToolTip": "PruebaCorta\\Vistas\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T18:03:03.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.aspx",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\Class.aspx",
+              "RelativeDocumentMoniker": "PruebaCorta\\Vistas\\Class.aspx",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\Class.aspx",
+              "RelativeToolTip": "PruebaCorta\\Vistas\\Class.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T02:49:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "School.aspx",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\School.aspx",
+              "RelativeDocumentMoniker": "PruebaCorta\\Vistas\\School.aspx",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\PruebaCorta\\PruebaCorta\\Vistas\\School.aspx",
+              "RelativeToolTip": "PruebaCorta\\Vistas\\School.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-14T02:23:33.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
